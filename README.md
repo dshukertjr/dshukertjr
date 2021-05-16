@@ -6,3 +6,5 @@
 - 💬 Ask me about ... Flutter, Supabase and Firebase!
 - 📫 How to reach me: ... twitter!
 - ⚡ Fun fact: ... I play handball and am really good at handstand!
+
+<img src="https://github-readme-stats.vercel.app/api?username=dshukertjr&theme=vue-dark&show_icons=true" alt="github score" />
